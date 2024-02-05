@@ -15,7 +15,7 @@ if (!isset($_SESSION['user'])) {
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <?= style_script() ?>
 
-        <title>Profil</title>
+        <title>XSS</title>
     </head>
 
     <body>
