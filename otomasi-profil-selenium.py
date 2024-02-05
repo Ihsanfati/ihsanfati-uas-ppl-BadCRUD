@@ -1,7 +1,7 @@
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
+import time, os
 
 class WebsiteTest(unittest.TestCase):
 
